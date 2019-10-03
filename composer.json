@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/PMA_Google_Analytic_Importer1",
+    "name": "OpenMageModuleFostering\/PMA_Google_Analytic_Importer1",
     "type": "magento-module",
     "license": "OSL-V3.0",
     "homepage": "",
     "description": "Order Importer",
     "authors": [
-    {
-        "name": "Durgesh Parmar",
-        "email": "durgesh.p@cisinlabs.com"
-    }
-],
+        {
+            "name": "Durgesh Parmar",
+            "email": "durgesh.p@cisinlabs.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
