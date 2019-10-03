@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/PMA_Google_Analytic_Importer1",
+    "name": "openmage-module-fostering\/pma_google_analytic_importer1",
     "type": "magento-module",
-    "license": "OSL-V3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Order Importer",
     "authors": [
